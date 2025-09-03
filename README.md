@@ -26,5 +26,5 @@ This Excel dashboard analyzes monthly sales data using PivotTables, slicers, and
 This dashboard was built as part of my portfolio to showcase Excel skills in a real-world context. It’s beginner-friendly, visually clean, and designed to spark feedback from the data community.
 
 ## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/tamiltamil121v-cloud)
+- [LinkedIn](https://www.linkedin.com/in/dinesh-sivakumar-3a0903381)
+- [GitHub](https://github.com/tamiltamil2121v-cloud/--excel-sales-dashboard---.git)
